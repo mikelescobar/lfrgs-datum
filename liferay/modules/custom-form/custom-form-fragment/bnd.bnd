@@ -1,0 +1,5 @@
+Bundle-Name: Custom Form Fragment
+Bundle-SymbolicName: custom.form.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.dynamic.data.mapping.form.web;bundle-version="2.0.87"
+Portal-Bundle-Version: 7.2.10

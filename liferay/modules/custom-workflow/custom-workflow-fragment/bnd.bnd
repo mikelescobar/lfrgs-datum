@@ -1,0 +1,5 @@
+Bundle-Name: Custom Workflow Fragment
+Bundle-SymbolicName: custom.workflow.fragment
+Bundle-Version: 1.0.1
+Fragment-Host: com.liferay.portal.workflow.web;bundle-version="2.0.44"
+Portal-Bundle-Version: 7.2.10

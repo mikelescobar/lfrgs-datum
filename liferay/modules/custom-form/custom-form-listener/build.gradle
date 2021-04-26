@@ -1,0 +1,13 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	
+	compileOnly group: "com.liferay", name: "com.liferay.dynamic.data.mapping.api"
+	compileOnly group: "com.liferay", name: "com.liferay.petra.string"
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel"
+	
+	compileOnly group: "biz.aQute.bnd", name: "biz.aQute.bnd.annotation", version: "4.2.0"
+	compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations", version: "1.3.0"
+	compileOnly group: "org.osgi", name: "osgi.core", version: "6.0.0"
+	
+	compile project(":modules:custom-form:custom-form-service")
+}

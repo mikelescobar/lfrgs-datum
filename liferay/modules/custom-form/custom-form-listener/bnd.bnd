@@ -1,0 +1,3 @@
+Bundle-Name: custom-form-listener
+Bundle-SymbolicName: com.liferay.custom.form.listener.service.impl
+Bundle-Version: 1.0.0
